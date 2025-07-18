@@ -21,4 +21,4 @@ A project covering time series analysis, regression models, and diagnostic tests
 
 > **Note**: Enable Git LFS for large files (`git lfs track "*.wf1"`).
 > https://github.com/NiloufarShafaghi/EViews 
-فاث
+
