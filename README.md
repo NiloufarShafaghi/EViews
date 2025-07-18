@@ -7,7 +7,15 @@ A project covering time series analysis, regression models, and diagnostic tests
 - `report.docx`: Detailed documentation (in Persian).  
 
 ## Tests & Models  
-- Stationarity (ADF/KPSS)  
+- Stationarity (ADF/KPSS)
+- OLS
+- AR1
+- BOX-PIERCE TEST
+-  LJING-BOX
+-  RAMSY-RAMSY WHITE TEST
+-  LAGRANGE
+-  JARQUE-BERA
+-  ACF
 - ARIMA, VAR/SVAR  
 - Granger Causality  
 
